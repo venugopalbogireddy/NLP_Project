@@ -6,11 +6,11 @@ The goal of this project is to build a profit warning dectection model that perf
 
 ## Files
 
-data.json: contain the transcript data with time series and text.
-data_new_var.json: The features extracted while modelling are stored along with data.json. This is to import the data and features for further analysis reducing the time for the finding the features.
-LM.csv: contains the Loughran and McDonald Dictionary downloaded from their official website.
-ML_Models: Feature generation, Standalone model testing.
-Ensemble_Models: Ensembling the standalone models to minimize the generalization error and log loss error.
+data.json: contain the transcript data with time series and text.  
+data_new_var.json: The features extracted while modelling are stored along with data.json. This is to import the data and features for further analysis reducing the time for the finding the features.  
+LM.csv: contains the Loughran and McDonald Dictionary downloaded from their official website.  
+ML_Models: Feature generation, Standalone model testing.  
+Ensemble_Models: Ensembling the standalone models to minimize the generalization error and log loss error.  
 
 
 ## CODE
